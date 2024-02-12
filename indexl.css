@@ -1,0 +1,35 @@
+section{
+    display: flex;
+    margin-left: 5%;
+}
+
+h1{
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 70px;
+}
+
+div{
+    width: 538px;
+    margin-right: 4%;
+   
+}
+
+img{
+    width: 538px;
+}
+
+p{
+    font-weight: 400;
+    font-size: 24px;
+    padding-top: 0px;
+    opacity: 80%;
+}
+
+h3{
+    font-weight:bolder;
+    padding-bottom: 0px;
+    opacity: 60%;
+    font-size: 30px;
+
+}
